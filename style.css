@@ -1,0 +1,16 @@
+/* external css */
+p{
+    color:red;
+    font-size: 20px;
+    font-style: italic; /* lyk <i> tag */
+    font-weight: 800; /* just lyk <b> tag*/
+    text-decoration: underline ; /* lyk <u> tag */
+    font-family: 'Times New Roman', Times, serif; /* to set font */
+
+}
+h1{
+    color:teal;
+}
+a{
+    text-decoration: none; /*to remove underline for anchor tag */
+}
